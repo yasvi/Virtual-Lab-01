@@ -17,6 +17,7 @@ w -> Forward
 S -> Backward
 A -> Left
 D -> Right
+SPACE BAR -> Jump
 Mouse -> Move the mouse to Change your POV
 
 IMPORTANT NOTE  BEFORE YOU PLAY
@@ -26,6 +27,6 @@ HOW TO PLAY:
 -> You will spawn in an Authentication Room where u will find two rifts one blue and the other in red.
 -> The Blue rift is for new users to sign in and Red rift is for old users to log in.
 -> After signing in or logging in you will enter The main room.
--> In the main room to deactivate the Siren and warning message u will have to click the red button on one of the walls.
+-> In the main room to deactivate the Siren and warning message you will have to click the red button on one of the walls.
 
 
