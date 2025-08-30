@@ -29,4 +29,8 @@ HOW TO PLAY:
 -> After signing in or logging in you will enter The main room.
 -> In the main room to deactivate the Siren and warning message you will have to click the red button on one of the walls.
 
+TO INSTALL
+ -? pip install ursina (in terminal)
+ -> If using vs code you might need to create a virtual env.
+ 
 
